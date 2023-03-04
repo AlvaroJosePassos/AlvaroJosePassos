@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1>Bem vindo ao meu perfil :technologist: </h1>
 
-<!--
-**AlvaroJosePassos/AlvaroJosePassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é Álvaro, eu gosto muito de tecnologia e sempre estou pesquisando mais sobre a área.
 
-Here are some ideas to get you started:
+<h2>Status</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=AlvaroJosePassos&show_icons=true&theme=radical&line_height=27" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroJosePassos&hide=html,css,c&theme=radical&langs_count=3" />
+</p>
+
+
+<h2 align="left">Linguagens e ferramentas:</h2>
+<p align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="c" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="c" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="c" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="c" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="c" width="40" height="40"/>
+</p>
