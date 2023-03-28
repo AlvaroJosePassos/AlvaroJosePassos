@@ -13,7 +13,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AlvaroJosePassos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-### Contact
+### Contact:
 <div>  
 <a href="https://instagram.com/alvaro_jose_passos?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/%C3%A1lvaro-jos%C3%A9-7723a3256" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
